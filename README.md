@@ -29,5 +29,9 @@ Linux commandos
 	1. rm *bestandnaam*
 14. Als je een directory wilt verwijderen
 	1. rm -r *mapnaam*
-15. Linux sluiten
+15. cowsay install
+	1. sudo apt install cowsay
+16. cowsay laten praten
+	1. cowsay *zin/woord*
+17. Linux sluiten
 	1. shutdown now
